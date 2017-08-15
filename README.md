@@ -24,7 +24,7 @@ Let's look at how to set up the environment on Linux, Mac OS X, and Windows.
 
 ## Mac OS X
 
-* Install [Brew Cask](http://caskroom.io/).
+* Install [Brew Cask](https://caskroom.github.io/).
 * Install Vagrant using this: `sudo brew cask install vagrant; sudo brew cask install vagrant-manager`
 * Install VirtualBox using this: `sudo brew cask install virtualbox`
 * Install the VirtualBox Extension Pack using the following: `sudo brew cask install virtualbox-extension-pack`
